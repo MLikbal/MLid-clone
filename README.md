@@ -1,6 +1,6 @@
 ##
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFE00&width=435&lines=MLid-clone+%E2%9C%85)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFE00&width=435&lines=MLid-clone+%E2%9C%85)](https://git.io/typing-svg)
+#
 
 
 Installation ⬇️:
